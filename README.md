@@ -1,4 +1,4 @@
-# Leaflet Storymaps with Google Sheets
+ADK Map time period 1930-1950 # Leaflet Storymaps with Google Sheets
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
